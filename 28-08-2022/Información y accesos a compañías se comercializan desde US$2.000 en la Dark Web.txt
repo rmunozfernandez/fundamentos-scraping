@@ -1,0 +1,13 @@
+Información y accesos a compañías se comercializan desde US$2.000 en la Dark Web
+
+Los más interesados para estos servicios son los operadores ransomware, quienes alcanzan ganancias de US$38 millones cada año
+
+La Dark Web es uno de los sitios más peligrosos de internet donde se comercializa todo tipo de cosas, ahora, los ciberdelincuentes encontraron una nueva manera de lucrarse vendiendo datos y accesos a compañías. Según datos de Karspersky, el acceso a una compañía grande está entre US$1.900 
+y US$3.800.
+ Un valor relativamente bajo frente al daño que generará a la organización.
+Los más interesados para estos servicios son los operadores ransomware, quienes alcanzan ganancias de US$38 millones cada año, de acuerdo al informe de Karspersky. Para el estudio se analizaron más de 200 publicaciones en la Dark Web que brindaban información para el acceso inicial a sistemas empresariales.
+“Hoy en día, los grupos de ransomware se parecen más a negocios reales con servicios y productos a la venta. En Kaspersky supervisamos constantemente los foros de la Dark Web para detectar nuevas tendencias y tácticas de los ciberdelincuentes y hemos observado el creciente mercado de datos para la organización de ataques. Obtener visibilidad de las fuentes en la Dark Web es esencial para las empresas que buscan enriquecer su inteligencia de amenazas", dijo Fabio Assolini, director del
+ Equipo
+ de Investigación y Análisis para América Latina en Kaspersky.
+Los precios del acceso inicial son diferentes, los más altos se deben al nivel de ingresos de la empresa, también de acuerdo a la industria y la región donde opere.
+"La información oportuna sobre los ataques planificados, las discusiones sobre las vulnerabilidades y las filtraciones de datos exitosas ayudarán a reducir la superficie de ataque y tomar las medidas adecuadas”, agregó Assolini.
